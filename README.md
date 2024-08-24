@@ -129,6 +129,9 @@ ip: IP address of the user accessing the website.
 
 url: Specific URL that was accessed on the website.
 
+# Data Preprocessing : 
+
+Imported both datasets into Power BI and performed an initial review to identify data quality issues or inconsistencies. Address any missing values, duplicate entries, and irrelevant data points to maintain data integrity. Convert  columns  to appropriate date formats and made some calculation using new measure  an dquick measure.Used DAX quries to get some other infomation and data to create charts and graphs for dashboard.
 
 
 
