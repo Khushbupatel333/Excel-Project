@@ -133,6 +133,10 @@ url: Specific URL that was accessed on the website.
 
 Imported both datasets into Power BI and performed an initial review to identify data quality issues or inconsistencies. Address any missing values, duplicate entries, and irrelevant data points to maintain data integrity. Convert  columns  to appropriate date formats and made some calculation using new measure  an dquick measure.Used DAX quries to get some other infomation and data to create charts and graphs for dashboard.
 
+# Dashboards : 
+![Dashboard_Image](https://github.com/user-attachments/assets/70990424-77b1-4d35-aaae-b8aa6436efe7)
+
+
 
 
 
