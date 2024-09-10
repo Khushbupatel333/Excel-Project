@@ -1,5 +1,5 @@
 # Amazon Data Analysis : Excel Dashboard Creation
-![Amazon](https://github.com/user-attachments/assets/b4a2063c-d6fd-48af-b99d-733a49b9d8f3)
+![Amazon](https://github.com/user-attachments/assets/77b6bf6e-2d0b-4857-af76-fa1fcb968547)
 
 # Background : 
 DataCo Analysis Group, a leading consultancy in business analytics, specializes in providing comprehensive insights into various industry sectors. This case study, "Streamline & Spotlight," focuses on the intersection of supply chain operations and digital consumer behavior. With a detailed dataset encompassing supply chain metrics (DataCoSupplyChainDataset.csv) and digital access logs (TokenizedAccessLogs.csv), DataCo Analysis Group plays an instrumental role in helping businesses optimize their operations and understand digital engagement. The supply chain dataset offers insights into sales, logistics, and delivery performance, while the access logs shed light on consumer online interactions and preferences. 
